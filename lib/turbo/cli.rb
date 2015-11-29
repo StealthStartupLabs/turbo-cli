@@ -1,4 +1,4 @@
-require "turbo/cli/version"
+require 'turbo/cli/version'
 
 module Turbo
   module Cli
